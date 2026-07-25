@@ -71,10 +71,10 @@ I'm an Information Science Engineering student who enjoys solving problems and b
 
 **Key Highlights**
 
-- 🔹 Custom Lexer
-- 🔹 Recursive Parser
-- 🔹 Abstract Syntax Tree (AST)
-- 🔹 Intermediate Code Generation
+-  Custom Lexer
+-  Recursive Parser
+-  Abstract Syntax Tree (AST)
+-  Intermediate Code Generation
 
 **Tech Stack:** `C++` • `Compiler Design`
 
@@ -86,11 +86,11 @@ I'm an Information Science Engineering student who enjoys solving problems and b
 
 **Key Highlights**
 
-- 🔹 Arduino UNO
-- 🔹 MQ2 Smoke Sensor
-- 🔹 Flame Sensor
-- 🔹 DHT11 Temperature Sensor
-- 🔹 Relay-controlled Exhaust Fan
+-  Arduino UNO
+-  MQ2 Smoke Sensor
+-  Flame Sensor
+-  DHT11 Temperature Sensor
+-  Relay-controlled Exhaust Fan
 
 **Tech Stack:** `Arduino` • `IoT`
 
@@ -102,11 +102,11 @@ I'm an Information Science Engineering student who enjoys solving problems and b
 
 ### Research Focus
 
-- 🔹 Transformer-based Human Activity Recognition
-- 🔹 Explainability using Grad-CAM & Attention Visualization
-- 🔹 Wearable Sensor Data Analysis
-- 🔹 Study of State-of-the-Art Research
-- 🔹 Building Interpretable Deep Learning Models
+-  Transformer-based Human Activity Recognition
+-  Explainability using Grad-CAM & Attention Visualization
+-  Wearable Sensor Data Analysis
+-  Study of State-of-the-Art Research
+-  Building Interpretable Deep Learning Models
 
 **Research Domain:** `Deep Learning` • `Explainable AI` • `Human Activity Recognition`
 
